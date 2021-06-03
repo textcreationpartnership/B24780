@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords Justices of Ireland, a proclamation. Requireing all officers and soldiers to observe strict discipline, and for payment of quarters. Charles Porter, Coningesby. To the end their Majesties forces in this kingdom may be kept in good order and discipline, ...</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24780</idno><idno type="EEBO-CITATION">99886563</idno>
+  <idno type="VID">186783</idno>
+  <idno type="EEBO-PROQUEST">2240899963</idno>
+  
+            <idno type="STC">Wing I640</idno>
+            <idno type="STC">Interim Tract Supplement Guide G. 5869[74]</idno>
+            <idno type="STC">ESTC R226190</idno>
+            <idno type="PROQUEST">ocm99886563</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886563e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186783)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:3[74])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords Justices of Ireland, a proclamation. Requireing all officers and soldiers to observe strict discipline, and for payment of quarters. Charles Porter, Coningesby. To the end their Majesties forces in this kingdom may be kept in good order and discipline, ...</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+                  <author>Coningsby, Thomas Coningsby, Earl, 1656?-1729.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] leaves).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook, assignee of Benjamin Tooke, printer to the King and Queen's most Excellent Majesties on Ormonde-Key,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at their Majesties castle of Dublin, the 23. day of July, 1692.".</note>
+                  <note>A proclamation. requireing all officers and soldiers to observe strict discipline, and for payment of quarters.--Steele.</note>
+                  <note>Steele notation: Arms 193. may been 2) same No-.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">England and Wales --  Army --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186783:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="fre">JE MEINTIENDRAY</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lords Justices OF IRELAND, A PROCLAMATION. Requireing all Officers and Soldiers to observe strict Discipline, and for Pay<g ref="char:EOLhyphen"/>ment of Quarters.</head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>CHARLES PORTER,</item>
+                     <item>CONINGESBY.</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O the end their Majesties Forces in this Kingdom may be kept in good Order and Discipline, and their Maje<g ref="char:EOLhyphen"/>sties Subjects not suffer by any disorder or misdemeanor of any Officers or Soldiers within their Majesties Pay and Entertainment, or by their not paying for their Quarters, or by their exacting money from such per<g ref="char:EOLhyphen"/>sons as they are quartered upon, We think fit hereby to declare.</p>
+            <p>
+               <hi>First,</hi> WHEREAS We have taken care for the pay<g ref="char:EOLhyphen"/>ment of a constant subsistance monthly to all the Offi<g ref="char:EOLhyphen"/>cers and Soldiers in their Majesties Army which hath been duly paid since the first day of <hi>January</hi> last, Not<g ref="char:EOLhyphen"/>withstanding which, Complaints have been made that many of them have neglected to pay any thing for their dyet. We require the Chief Commanding Officer residing with each Regiment, Troop and Company to cause the dyet and Quarter of the Soldiers under their Command to be constantly paid every week in their respective Quarters out of their said subsistance money, according to the rates herein after mentioned.</p>
+            <p>
+               <hi>Secondly,</hi> That the Officers and Soldiers in their several Quarters be furnish<g ref="char:EOLhyphen"/>ed only with their Dyet, Lodging, Fire and Candle, and do not demand or take any money or other allowance for Salt, Vinegar or Pepper, nor shall they be fur<g ref="char:EOLhyphen"/>nished with any unless what shall be used at their meals.</p>
+            <p>
+               <hi>Thirdly,</hi> That no money be taken by Officers or Soldiers unless it be at the request of the Person or Persons they are quartered upon, who shall desire so to do
+<pb facs="tcp:186783:2"/> rather than furnish them with Provisions and Lodging, and in such case the same is not to exceed One Moyety of the summ weekly that such Officer or Soldier is according to the rates herein after mentioned, to allow for his dyet, and that all Persons may know what shall be paid for their dyet, and Quarters. We do hereby publish and declare that every Horse-man is to pay for his dyet and Quar<g ref="char:EOLhyphen"/>ter two shillings and ten pence <hi>per</hi> week, Every Dragoon two shilling four pence <hi>per</hi> week. And every Foot Soldier one shilling and nine pence <hi>per</hi> week. And so proportionably for a longer or a shorter time.</p>
+            <p>
+               <hi>Fourthly,</hi> That the Quarter-Master or such other Officer as shall be appoint<g ref="char:EOLhyphen"/>ed by the Commanding Officer shall be joyned with the Civil Magistrate in setting out of Quarters, to prevent the frequent Complaints of unequal quartering of Soldiers, every Soldier shall be quartered by name, and not be removed from the Quarters assigned him without Order of his Commissioned Officer, and the Ma<g ref="char:EOLhyphen"/>gistrate, who appointed his Quarters, or the next Iustice of the Peace.</p>
+            <p>
+               <hi>Fifthly,</hi> We do hereby strickly forbid all Their Majesties Officers and Soldiers to use any violence or threatning words to any Person whatsoever, or give any of<g ref="char:EOLhyphen"/>fence or just cause of complaint for non-payment of their Quarters, at the rates aforesaid, or otherwise, and in case any of the said Officers or Soldiers shall pre<g ref="char:EOLhyphen"/>sume to commit any spoil or disorder or use any violence or threatning words or do not pay their Quarters at the rates aforesaid. We do hereby further declare that besides the ordinary course of Iustice for redress, if the Persons agrieved shall make known the same to the Superiour Officers, the said Officers shall, and are hereby required to cause satisfaction immediately to be made, and that if such Of<g ref="char:EOLhyphen"/>ficer to whom Complaint is made shall forbear or delay the causing due satisfaction to be given as aforesaid, The Persons to whom wrong is done, are to make their further Complaint to any two Iustices of the Peace, of the County, City or Place where the offence is committed, which said Iustices We do require to represent the same forthwith to Vs or to the Chief Governour or Governours of this Kingdom for the time being, that speedy Iustice may be done by reparation of the Injury, and causing the Officers and Soldiers so offending to be punished as the nature and quality of their offence shall deserve.</p>
+            <p>
+               <hi>Sixthly,</hi> That in case any Officers or Soldiers shall for any reward or considerati<g ref="char:EOLhyphen"/>on leave or change the quarters appointed them, or shall demand or exact money for Quarters, or to exempt any Person from the same, they shall be punished by Ca<g ref="char:EOLhyphen"/>shiering and loss of their Pay.</p>
+            <p>And We do hereby require all Officers and Soldiers in Their Majesties Ser<g ref="char:EOLhyphen"/>vice to behave themselves Orderly in all things according to Law and Mili<g ref="char:EOLhyphen"/>tary Discipline as becomes them. And to the end these Our directions may be publickly made known. We require all Sheriffs of Cities, Counties and Towns Corporate upon Receipt of Printed Copies hereof, to Publish and Affix the same in the usual places within their several Counties that all Persons may take No<g ref="char:EOLhyphen"/>thereof.</p>
+            <closer>
+               <dateline>Given at their Majesties Castle of <hi>Dublin,</hi>
+                  <date>the 23. day of <hi>July,</hi> 1692. In the fourth Year of their Majesties Reign.</date>
+               </dateline>
+               <signed>By the Lords-Justices Command. Arth. Podmore.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook,</hi> Assignee of <hi>Benjamin Tooke,</hi> Printer to the King And Queens Most Excellent Majesties on <hi>Ormonde-Key.</hi> 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
